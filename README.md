@@ -12,9 +12,6 @@
 <a href="https://codeforces.com/profile/akalewoled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ffekirnew" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fikiremariyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ffekirnew" height="30" width="40" /></a>
 </p>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
 
 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -77,20 +74,4 @@
 <!--Heroku--> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <!--Flutter--> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-<h3 align="left">✏️ Github Stats:</h3>
-
-[![committers.top badge](https://user-badge.committers.top/ethiopia/ffekirnew.svg)](https://user-badge.committers.top/ethiopia/ffekirnew)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffekirnew&show_icons=true&locale=en&layout=compact" alt="ffekirnew" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ffekirnew&show_icons=true&locale=en" alt="ffekirnew" /></p>
-
-<h3 align="left">⚡ I’m looking to collaborate on:</h3>
-
-- Django
-- Angular
-
-<h3 align="left">😆 Leaving Note:</h3>
-Please beware of the Darth Vader, Darth Sidious and Darth Maul in Computer Science: cache invalidation, naming things, and off-by-one errors.
-    
-    
     
