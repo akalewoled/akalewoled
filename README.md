@@ -1,112 +1,77 @@
-# Project Name
+<h2>FIKIREMARIAM🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-[![Badge](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
+![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-## Description
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-**A brief and engaging description of your project.**
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-## Installation
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-**Step-by-step instructions on how to set up and run your project.**
+---
+<!--START_SECTION:waka-->
+**I'm an early 🐤** 
 
-## Usage
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 
-**Explain how to use the project's features with clear examples.**
-
-## Contributing
-
-**Guidelines for contributing to your project (if open-source).**
-
-## License
-
-**Specify the license under which your project is distributed.**
-
-## Authors
-
-**List the project's authors and contributors.**
-
-## Support
-
-**Provide information on how to get help or support for your project.**
-Use code with caution.
-I'm ready to assist you further once I have more details about your project. Feel free to share any additional information or questions you have!
-
-profile picture
-i want the readme for my profile and i am software engineering student and i want the social mideal links to be inserted in it iam proeffiecent in python data structures and algorithm 
-Show drafts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 
 
+📊 **This week I spent my time on** 
 
+```text
+⌚︎ Timezone: Asia/Calcutta
 
+💬 Languages: 
+JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
+Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
+PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
+YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
 
+🔥 Editors: 
+WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
+PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
+PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
 
+💻 Operating Systems: 
+Windows                  17 hrs 5 mins       █████████████████████████   100.0%
 
+```
+<!--END_SECTION:waka-->
 
-
-
-
-
-
-
-I'd be glad to craft a captivating README for your software engineering student profile on GitHub, incorporating your proficiency in Python, data structures, and algorithms, along with your social media links:
-
-Markdown
-##  **[Your Name]**
-
-**Software Engineering Student | Python Enthusiast | Data Structures & Algorithms Pro**
-
-Hi there! I'm [Your Name], a passionate software engineering student with a knack for crafting clean, efficient code using Python. I'm driven by the challenge of designing and building innovative solutions that make a positive impact.
-
-###  My Skills & Expertise
-
-* **Programming Languages:**
-    * Python (proficient)
-    * [Other languages you're familiar with (optional)]
-* **Data Structures & Algorithms:**
-    * Expert understanding of fundamental data structures (e.g., lists, trees, graphs)
-    * Strong grasp of common algorithms and their complexities (e.g., sorting, searching, dynamic programming)
-* **Software Development:**
-    * Familiarity with various software development methodologies (e.g., Agile, Waterfall)
-    * Experience with version control systems (e.g., Git)
-* **Additional Skills:**
-    * [List any other relevant skills you have, e.g., web development, machine learning]
-
-###  Projects & Contributions
-
-* **[Project Name 1](https://github.com/your-username/project-name-1):** [Brief description of project 1]
-* **[Project Name 2](https://github.com/your-username/project-name-2):** [Brief description of project 2]
-* **[Project Name 3](https://github.com/your-username/project-name-3):** [Brief description of project 3]
-* (Add more projects if applicable)
-
-**Contributions to Open-Source Projects:**
-* [List any open-source projects you've contributed to]
-
-###  Connect with Me
-
-* **Website:** [Your personal website URL, if applicable]
-* **LinkedIn:** https://www.linkedin.com/in/[your-linkedin-username]
-* **GitHub:** https://github.com/[your-github-username]
-* **[Other social media platforms you use, e.g., Twitter, Facebook]**
-
-I'm always eager to learn, collaborate, and contribute to meaningful projects. Feel free to reach out if you have any questions or interesting ideas!
-
-###  Contact
-
-* **Email:** [your-email-address]
+**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
