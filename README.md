@@ -1,6 +1,6 @@
 ### Hi there 👋
  🔭 I’m currently working on my self
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![<github>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 <!--
 **akalewoled/akalewoled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
