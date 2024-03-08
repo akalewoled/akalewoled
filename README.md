@@ -16,7 +16,7 @@
 
 <h3 align="left">🔭 I’m currently working on:</h3>
 
-- Work-place Projects
+- freelance Projects
 - School Projects
 
 <h3 align="left">🌱 I’m currently learning:</h3>
